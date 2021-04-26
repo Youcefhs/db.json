@@ -4,21 +4,18 @@
       "id": 1,
       "category": "Novel",
       "title": "Animal farm",
-      "description": "Find your ndfmk klflf fd .",
       "writer": "George Orwell",
     },
     {
       "id": 2,
       "category": "Food",
       "title": "Baklawa",
-      "description": "Find your ndfmk klflf fd .",
       "writer": "George Orwell",
     },
     {
       "id": 3,
       "category": "Science",
       "title": "Calculus",
-      "description": "Find your ndfmk klflf fd .",
       "writer": "George Orwell",
     }
   ]
